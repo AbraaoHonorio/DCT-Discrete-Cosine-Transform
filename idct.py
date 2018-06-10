@@ -26,7 +26,7 @@ def idct_1d(image):
     for i in range(n):
         sum = 0
         for k in range(n):
-            ck = sqrt(0.5) if k == 0 else 1 # operador tenario para verificar do CK
+            ck = sqrt(0.5) if k == 0 else 1 # operador tenario para verificar o valor do CK
             sum += ck * image[k] * cos(2 * pi * k / (2.0 * n) * i + (k * pi) / (2.0 * n))
 
         newImage[i] = sqrt(2.0 / n) * sum
