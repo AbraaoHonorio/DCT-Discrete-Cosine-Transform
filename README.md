@@ -19,5 +19,5 @@ python main.py
 ## Grupo
 - Abraão Allysson
 - Felipe Andrade
-- Yuri Gouveia
 - Wellton Thyago
+- Yuri Gouveia
