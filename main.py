@@ -16,11 +16,11 @@ def main():
 	# Chama cada questao de forma isolada
 	print('*************** DCT_img ****************')
 	imgResult = dct_2d(img,numberCoefficients)
-	cv2.imwrite('AAAdct256.jpg',imgResult)
+	cv2.imwrite('dct256.jpg',imgResult)
 	
 	print('*************** Iidct_img ****************')
 	idct_img = idct_2d(imgResult)
-	cv2.imwrite('AAAidct256.jpg',idct_img)
+	cv2.imwrite('idct256.jpg',idct_img)
 
 	
 
