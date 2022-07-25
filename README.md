@@ -1,5 +1,5 @@
-# DCT-Discrete-Cosine-Transform
-Identify the frequency domain of an image. Aplly Discrete Cosine Transform(DCT ) and  Inverse Discrete Cosine Transform(IDCT) in image
+# DCT - Discrete Cosine Transform
+Identify the frequency domain of an image. Aplly Discrete Cosine Transform([DCT](https://en.wikipedia.org/wiki/Discrete_cosine_transform)) and  Inverse Discrete Cosine Transform([IDCT](https://en.wikipedia.org/wiki/Discrete_cosine_transform#Inverse_transforms)) in image
 
 
 
